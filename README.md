@@ -1,4 +1,15 @@
-# Flutter PTI – Platform Manajemen Keuangan UMKM
+<div align="center">
+
+### ☕ Flutter PTI – Platform Manajemen Keuangan UMKM
+#### Sistem pencatatan keuangan terintegrasi untuk UMKM dengan antarmuka retro futurism
+
+![Backend](https://img.shields.io/badge/Backend-Express%20JS-111822?style=for-the-badge&logo=node.js&logoColor=00d870)
+![Frontend](https://img.shields.io/badge/Frontend-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Style](https://img.shields.io/badge/Style-Retro%20Neon-8f00ff?style=for-the-badge)
+![State](https://img.shields.io/badge/State-Provider-673ab7?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 Platform terpadu yang memadukan **Flutter** (front-end) dan **Express + MySQL** (back-end) untuk membantu pelaku UMKM mengelola transaksi, memantau arus kas, dan menghasilkan laporan otomatis dengan gaya antarmuka retro neon ala tactical UI.
 
