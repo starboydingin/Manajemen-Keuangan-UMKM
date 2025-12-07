@@ -22,12 +22,13 @@ Platform terpadu yang memadukan **Flutter** (front-end) dan **Express + MySQL** 
 
 ## 👥 Tim Pengembang (Kelompok 24)
 
-| NPM | Nama | Role | GitHub |
-| --- | --- | --- | --- |
-| 2315061080 | Galang Pambudi Utama | Ketua | [@hino89](https://github.com/hino89) |
-| 2315061013 | Alexander Lawrensius | Anggota | [@Alexander-cloud29](https://github.com/Alexander-cloud29) |
-| 2315061074 | Adwika Farsha Ardhan | Anggota | [@starboydingin](https://github.com/starboydingin) |
-| 2315061119 | Rendy Antono | Anggota | [@rendyant](https://github.com/rendyant) |
+| NPM | Nama | Role |
+| --- | --- | --- |
+| 2315061002 | Radhitya Agrayasa Rhalin | Ketua |
+| 2315061022 | Nabilla Chairunisa | Anggota |
+| 2315061058 | Anggriani Luthfiyah Ratu | Anggota |
+| 2315061074 | Adwika Farsha Ardhan | Anggota |
+| 2315061086 | Najwa Aprisda Ramdhani | Anggota |
 
 ## 📖 Deskripsi Singkat
 
